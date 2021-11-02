@@ -1,1 +1,2 @@
 # Diabetic_Retinopathy-detection-using-CNN-and-SVM
+Diabetic retinopathy is a disease caused by chronic diabetes and can cause blindness. Therefore early detection of diabetic retinopathy is essential to prevent the increased severity. An automated system can help detect diabetic retinopathy quickly for determining the follow-up treatment to avoid further damage to the retina.The CNN is used to detect the Diabetic Retinopathy and SVM is used to grade them.
